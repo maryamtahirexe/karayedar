@@ -47,4 +47,4 @@ mongoose
     })
   )
   .catch((error) => console.error("Database connection error:", error.message));
-//mongodb+srv://maryamtahir061:meenuu123@clusterweb.l6zg4.mongodb.net/
+
